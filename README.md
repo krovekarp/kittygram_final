@@ -1,6 +1,6 @@
 #  Как работать с репозиторием финального задания
 
-https://github.com/krovekarp/kittygram_final/actions/workflows/main.yml/badge.svg
+https://github.com/krovekarp/kittygram_final/actions/workflows/main.yml/badge.svg?event=push
 
 ## Что нужно сделать
 
